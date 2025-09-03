@@ -1,4 +1,9 @@
 {
+  "name": "vk-giveaway-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 3000"
+  },
   "dependencies": {
     "yauzl": "^3.2.0"
   }
